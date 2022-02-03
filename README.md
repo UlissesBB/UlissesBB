@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UlissesBB
-- 👀 I’m interested in programming
+- 👀 I’m interested in javascript, java and python
 - 🌱 I’m currently learning how to use git :D
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
